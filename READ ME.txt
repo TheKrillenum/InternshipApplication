@@ -1,0 +1,17 @@
+Welcome to my C++/UE5 repository !
+
+My name is Matéo Costille, and you will find here 3 project that showcase my skills in C++ and in UE5.
+Each project shows a different aspect of my skillset:
+
+Battleship 		-> It is entirely done in C++ with VisualStudio2022, and is playable through the console only. 
+MultiplayerMap_UE5 	-> It is a demo of a map that I created for a "Quake"-like game, made entirely in blueprints.
+Battlezone 		-> This project is a multiplayer project that mix both UE5's blueprints and some C++.
+
+All of those project can be open from their folders, and all code/blueprint are available there. 
+However if you simply want to try out the games/demo, you can launch all of them from the "Launchers" folder.
+
+
+
+EXTRA:
+UML diagrams for the Battleship project can be found in it's folder.
+Feature documents for the "Quake"-like game can be found in it's folder as well.
